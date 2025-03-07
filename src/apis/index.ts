@@ -1,6 +1,6 @@
 import { ChallengeFormProps } from "@/@types/global";
 
-const BASE_URL = "http://localhost:3001";
+const BASE_URL = "https://umurava-challenge-1-api-1.onrender.com";
 
 export const getSkills = async () => {
   try {
